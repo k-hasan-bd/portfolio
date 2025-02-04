@@ -1515,7 +1515,7 @@ header .logo a {
 	padding-left: 13rem;
 }
 .intro-info .lead span{
-	color: #cc005f;
+	font-weight: 600;
 }
 .about-content {
 	position: relative;
